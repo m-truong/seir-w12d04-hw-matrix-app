@@ -12,3 +12,7 @@ Character.create([
 	{ name: "Morpheus", description: "Morpheus is a fictional character in The Matrix franchise.[1] He is portrayed by Laurence Fishburne in the films, and in the video game The Matrix: Path of Neo where he was the only actor to reprise his character's voice." },
 	{ name: "Agent Smith", description: "Agent Smith is a fictional character and the main antagonist of The Matrix trilogy. He was portrayed by Hugo Weaving in the films and voiced by Christopher Corey Smith in The Matrix: Path of Neo." },
 ])
+
+Vehicle.create([
+    {name: "Nebuchadnezzar", style: "Spaceship"}
+])
